@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  centos8:
+    container_name: "centos8"
+    build: .
+    tty: true
+    volumes:
+        - ./home:/home
