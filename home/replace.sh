@@ -1,6 +1,6 @@
 #!/bin/sh
-input_file="./input/input-data.csv"
-output_file="./output/output-data.csv"
+input_file="./output/output-data.csv"
+output_file="./output/replace-data.csv"
 search_word=",DUMMY,"
 replace_word=",NODUMMY,"
 
