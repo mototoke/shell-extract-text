@@ -14,7 +14,19 @@ cd /home
 
 ### Generate TEST Data
 ```
-sh generate-dummy-data.sh # genereate dummy-data
+sh generate-dummy-data2.sh # genereate dummy-data
+```
+
+### Extract Data
+```
+sh slow-extract.sh # slow extract
+
+sh fast-extract-grep.sh # fast extract grep
+
+sh fast-extract-sed.sh # slow extract sed
+
+sh fast-extract-awk.sh # slow extract awk
+
 ```
 
 ### Replace Data
