@@ -1,5 +1,5 @@
-# my-shwll-replace-test
-シェルスクリプトのテキストファイルの文字列置換お試しリポジトリ
+# my-shwll-extrac-test
+シェルスクリプトのテキストファイルの文字列抽出お試しリポジトリ
 
 ## NOTE
 
