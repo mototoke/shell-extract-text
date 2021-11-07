@@ -23,9 +23,9 @@ sh slow-extract.sh # slow extract
 
 sh fast-extract-grep.sh # fast extract grep
 
-sh fast-extract-sed.sh # slow extract sed
+sh fast-extract-sed.sh # fast extract sed
 
-sh fast-extract-awk.sh # slow extract awk
+sh fast-extract-awk.sh # fast extract awk
 
 ```
 
